@@ -20,7 +20,6 @@ class Cannon {
         }
 
     }
-
 }
 
 public class Testowy4_4_KolekcjeArmat {
