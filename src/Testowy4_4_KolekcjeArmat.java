@@ -17,8 +17,8 @@ class Cannon {
 
             System.out.println("AIM...... FIRE!!!!!");
             loaded = false;
-        }
 
+        }
     }
 }
 
@@ -41,4 +41,5 @@ public class Testowy4_4_KolekcjeArmat {
         }
 
     }
+
 }
